@@ -1,2 +1,13 @@
 # Cafe_Sales_Dashboard
-Interactive Power BI dashboard analyzing 2023 cafe sales performance. Features include revenue KPIs, monthly sales trends, location comparisons, payment method analysis, and interactive slicers. Uses data cleaning, DAX, and visualization to transform raw transaction data into actionable business insights and support data-driven decisions.
+Project Overview
+
+This project analyzes cafe sales data for 2023 using Microsoft Power BI. The dashboard transforms transaction data into meaningful visual insights to help understand revenue trends, location-wise performance, and customer payment preferences.
+
+ Project Objectives
+
+Analyze overall café sales performance.
+Track monthly revenue trends and identify high and low-performing months.
+Compare revenue across sales locations.
+Understand customer payment method preferences.
+Present key business insights through an interactive dashboard.
+
