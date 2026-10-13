@@ -5,9 +5,8 @@ This project analyzes cafe sales data for 2023 using Microsoft Power BI. The das
 
  Project Objectives
 
-Analyze overall café sales performance.
+Analyze overall cafe sales performance.
 Track monthly revenue trends and identify high and low-performing months.
 Compare revenue across sales locations.
 Understand customer payment method preferences.
 Present key business insights through an interactive dashboard.
-
